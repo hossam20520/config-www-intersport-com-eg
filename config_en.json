@@ -14,6 +14,22 @@
     {
       "fit": "fitHeight",
       "items": [
+
+
+        {
+          "key": "uBhKBNCuqMa",
+          "type": "image",
+          "image": "https://www.intersport.com.eg/cdn/shop/files/PUMA-WEBSITE-BANNER-MOBILE.png?v=1738494852&width=400",
+          "padding": 15,
+          "category": "gid://shopify/Collection/421518573788",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
+        },
+
+
         {
           "key": "idJjmdZArL",
           "type": "video",
