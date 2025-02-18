@@ -396,34 +396,34 @@
 
     {
       "name": "NEW SELLERS!",
-       "tabsCategory":  [
-         {
-           "name": "New Releases!",
-           "desc": "Whether you are starting out, getting lean or getting strong, hitting the gym or working out wherever you can, Nike products are made to move",
-           "size": 1.8,
-           "type": "menuWithProducts",
-           "wrap": false,
-           "layout": "banner_50",
-           "button_text": "SHOP NOW",
-           "category": "gid://shopify/Collection/421948653788",
-           "image": "https://www.intersport.com.eg/cdn/shop/files/NIKE_D.png?v=1713779411&width=1200",
-           "spacing": 12
-         },
+      "tabsCategory":  [
+        {
+          "name": "New Releases!",
+          "desc": "Whether you are starting out, getting lean or getting strong, hitting the gym or working out wherever you can, Nike products are made to move",
+          "size": 1.8,
+          "type": "menuWithProducts",
+          "wrap": false,
+          "layout": "banner_50",
+          "button_text": "SHOP NOW",
+          "category": "gid://shopify/Collection/421948653788",
+          "image": "https://www.intersport.com.eg/cdn/shop/files/NIKE_D.png?v=1713779411&width=1200",
+          "spacing": 12
+        },
 
-         {
-           "name": "New Releases!",
-           "desc": "Express yourself freely with Adidas elegant fresh drops in different styles and a wide range of new releases",
-           "size": 1.8,
-           "type": "menuWithProducts",
-           "wrap": false,
-           "layout": "banner_50",
-           "button_text": "SHOP NOW",
-           "category": "gid://shopify/Collection/421948653788",
-           "image": "https://www.intersport.com.eg/cdn/shop/files/ADIDAS_D.png?v=1713778018&width=1200",
-           "spacing": 12
-         }
+        {
+          "name": "New Releases!",
+          "desc": "Express yourself freely with Adidas elegant fresh drops in different styles and a wide range of new releases",
+          "size": 1.8,
+          "type": "menuWithProducts",
+          "wrap": false,
+          "layout": "banner_50",
+          "button_text": "SHOP NOW",
+          "category": "gid://shopify/Collection/421948653788",
+          "image": "https://www.intersport.com.eg/cdn/shop/files/ADIDAS_D.png?v=1713778018&width=1200",
+          "spacing": 12
+        }
 
-       ],
+      ],
 
       "size": 1.8,
       "type": "menuWithProducts",
@@ -553,362 +553,243 @@
 
 
   "Pages": [
+    {
+      "all_women": {  "HorizonLayout":    [
+
         {
-         "all_women": {  "HorizonLayout":    [
+          "layout": "head_title",
+          "title": "women"
 
-           {
-             "layout": "head_title",
-             "title": "women"
+        },
 
-           },
-
-           {
-             "layout": "hero_banner",
-             "category": "gid://shopify/Collection/421948653788",
-             "image": "https://www.intersport.com.eg/cdn/shop/files/1_web.jpg?v=1703779521&width=3200"
-           },
+        {
+          "layout": "hero_banner",
+          "category": "gid://shopify/Collection/421948653788",
+          "image": "https://www.intersport.com.eg/cdn/shop/files/1_web.jpg?v=1703779521&width=3200"
+        },
 
 
-           {
+        {
 
-             "header_name": "RECOMMENDED FOR YOU",
-             "type": "menuWithProducts",
-             "wrap": false,
-             "cardDesign": "intersport",
-             "layout": "recomended",
-             "columns": 5,
-             "category": "gid://shopify/Collection/433237000412",
-             "spacing": 12,
-             "imageBoxFit": "cover"
+          "header_name": "RECOMMENDED FOR YOU",
+          "type": "menuWithProducts",
+          "wrap": false,
+          "cardDesign": "intersport",
+          "layout": "recomended",
+          "columns": 5,
+          "category": "gid://shopify/Collection/433237000412",
+          "spacing": 12,
+          "imageBoxFit": "cover"
 
-           },
-
-
-             {
-
-             "items": [
-               {
-                 "name": null,
-                 "image": "https://www.intersport.com.eg/cdn/shop/files/tops.jpg?v=1703780027&width=1500",
-                 "title": "ANTA",
-                 "category": "gid://shopify/Collection/423887536348"
-               },
-
-               {
-                 "name": null,
-                 "image": "https://www.intersport.com.eg/cdn/shop/files/bottoms.jpg?v=1703780111&width=1500",
-                 "title": "ANTA",
-                 "category": "gid://shopify/Collection/423887536348"
-               },
-               {
-                 "name": null,
-                 "image": "https://www.intersport.com.eg/cdn/shop/files/shoes.jpg?v=1703780151&width=1500",
-                 "title": "ANTA",
-                 "category": "gid://shopify/Collection/423887536348"
-               },
-
-               {
-                 "name": null,
-                 "image": "https://www.intersport.com.eg/cdn/shop/files/Accessories.jpg?v=1703780181&width=1500",
-                 "title": "ANTA",
-                 "category": "gid://shopify/Collection/423887536348"
-               },
-
-               {
-                 "name": null,
-                 "image": "https://www.intersport.com.eg/cdn/shop/files/Swimwear.jpg?v=1703780218&width=1500",
-                 "title": "ANTA",
-                 "category": "gid://shopify/Collection/423887536348"
-               }
-             ],
-             "layout": "cards_list_seller"
+        },
 
 
-           } ,
+        {
 
-
-
-           {
-
-             "header_name": "SHOP THE LOOK",
-             "type": "menuWithProducts",
-             "wrap": false,
-             "cardDesign": "intersport",
-             "layout": "recomended",
-             "columns": 5,
-             "category": "gid://shopify/Collection/433237000412",
-             "spacing": 12,
-             "imageBoxFit": "cover"
-
-           },
-
-           {
-             "layout": "hero_banner_shop",
-             "title": "SHOP NOW",
-             "category": "gid://shopify/Collection/421948653788",
-             "type": "with_button",
-             "image": "https://www.intersport.com.eg/cdn/shop/files/mob3_74090a13-34ad-4ddd-8ccc-8ebd2216a3ce.jpg"
-           },
-
-
-
-
-           {
-             "header_name": "BESTSELLERS",
-             "type": "menuWithProducts",
-             "wrap": false,
-             "cardDesign": "intersport",
-             "layout": "recomended",
-             "columns": 5,
-             "category": "gid://shopify/Collection/433237000412",
-             "spacing": 12,
-             "imageBoxFit": "cover"
-           }
-
-
-
-
-         ]  },
-
-          "all_men": {  "HorizonLayout":    [
-
+          "items": [
             {
-              "layout": "head_title",
-              "title": "MEN"
-
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/tops.jpg?v=1703780027&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
             },
 
             {
-              "layout": "hero_banner_shop",
-              "title": "SHOP NOW",
-              "type": "none",
-              "category": "gid://shopify/Collection/421948653788",
-              "image": "https://www.intersport.com.eg/cdn/shop/files/men_53962849-24c8-49d8-b93c-e8479d325626.jpg?v=1725450025&width=400"
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/bottoms.jpg?v=1703780111&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
+            },
+            {
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/shoes.jpg?v=1703780151&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
             },
 
-
             {
-
-              "header_name": "RECOMMENDED FOR YOU",
-              "type": "menuWithProducts",
-              "wrap": false,
-              "cardDesign": "intersport",
-              "layout": "recomended",
-              "columns": 5,
-              "category": "gid://shopify/Collection/433237000412",
-              "spacing": 12,
-              "imageBoxFit": "cover"
-
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/Accessories.jpg?v=1703780181&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
             },
 
-
             {
-
-              "items": [
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/tops_1df0dc38-47ac-4cac-baca-c76c968119ef.jpg?v=1703781250&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                },
-
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/bottoms_f68dc903-e7c1-4bea-b985-58e0d6b39d1e.jpg?v=1703781284&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                },
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/shoes_953d1dd3-1243-467d-837e-36c0fc9bc771.jpg?v=1703781315&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                },
-
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/Accessories_6a1e3c42-f61f-46d2-90fe-e02d1c65b60b.jpg?v=1703781345&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                },
-
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/Swimwear_0a72f052-6a29-438a-8564-35935708a6b7.jpg?v=1703781375&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                }
-              ],
-              "layout": "cards_list_seller"
-
-
-            } ,
-
-
-
-            {
-
-              "header_name": "SHOP THE LOOK",
-              "type": "menuWithProducts",
-              "wrap": false,
-              "cardDesign": "intersport",
-              "layout": "recomended",
-              "columns": 5,
-              "category": "gid://shopify/Collection/433237000412",
-              "spacing": 12,
-              "imageBoxFit": "cover"
-
-            },
-
-
-
-
-            {
-              "layout": "hero_banner_shop",
-              "title": "SHOP NOW",
-              "type": "with_button",
-              "category": "gid://shopify/Collection/421948653788",
-              "image": "https://www.intersport.com.eg/cdn/shop/files/mob02.jpg?v=1703972185&width=400"
-            },
-
-
-
-            {
-
-              "header_name": "BESTSELLERS",
-              "type": "menuWithProducts",
-              "wrap": false,
-              "cardDesign": "intersport",
-              "layout": "recomended",
-              "columns": 5,
-              "category": "gid://shopify/Collection/433237000412",
-              "spacing": 12,
-              "imageBoxFit": "cover"
-
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/Swimwear.jpg?v=1703780218&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
             }
+          ],
+          "layout": "cards_list_seller"
 
-          ]  },
 
-          "all_kids": {  "HorizonLayout":    [
+        } ,
 
+
+
+        {
+
+          "header_name": "SHOP THE LOOK",
+          "type": "menuWithProducts",
+          "wrap": false,
+          "cardDesign": "intersport",
+          "layout": "recomended",
+          "columns": 5,
+          "category": "gid://shopify/Collection/433237000412",
+          "spacing": 12,
+          "imageBoxFit": "cover"
+
+        },
+
+        {
+          "layout": "hero_banner_shop",
+          "title": "SHOP NOW",
+          "category": "gid://shopify/Collection/421948653788",
+          "type": "with_button",
+          "image": "https://www.intersport.com.eg/cdn/shop/files/mob3_74090a13-34ad-4ddd-8ccc-8ebd2216a3ce.jpg"
+        },
+
+
+
+
+        {
+          "header_name": "BESTSELLERS",
+          "type": "menuWithProducts",
+          "wrap": false,
+          "cardDesign": "intersport",
+          "layout": "recomended",
+          "columns": 5,
+          "category": "gid://shopify/Collection/433237000412",
+          "spacing": 12,
+          "imageBoxFit": "cover"
+        }
+
+
+
+
+      ]  },
+
+      "all_men": {  "HorizonLayout":    [
+
+        {
+          "layout": "head_title",
+          "title": "الرجال"
+
+        },
+
+        {
+          "layout": "hero_banner_shop",
+          "title": "SHOP NOW",
+          "type": "none",
+          "category": "gid://shopify/Collection/421948653788",
+          "image": "https://www.intersport.com.eg/cdn/shop/files/men_53962849-24c8-49d8-b93c-e8479d325626.jpg?v=1725450025&width=400"
+        },
+
+
+        {
+
+          "header_name": "RECOMMENDED FOR YOU",
+          "type": "menuWithProducts",
+          "wrap": false,
+          "cardDesign": "intersport",
+          "layout": "recomended",
+          "columns": 5,
+          "category": "gid://shopify/Collection/433237000412",
+          "spacing": 12,
+          "imageBoxFit": "cover"
+
+        },
+
+
+        {
+
+          "items": [
             {
-              "layout": "head_title",
-              "title": "KIDS"
-
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/tops_1df0dc38-47ac-4cac-baca-c76c968119ef.jpg?v=1703781250&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
             },
 
             {
-              "layout": "hero_banner_shop",
-              "title": "SHOP NOW",
-              "type": "none",
-              "category": "gid://shopify/Collection/421948653788",
-              "image": "https://www.intersport.com.eg/cdn/shop/files/2_3aabcd6e-d994-492b-a068-a850473b7174.jpg?v=1703972277&width=400"
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/bottoms_f68dc903-e7c1-4bea-b985-58e0d6b39d1e.jpg?v=1703781284&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
+            },
+            {
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/shoes_953d1dd3-1243-467d-837e-36c0fc9bc771.jpg?v=1703781315&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
             },
 
-
             {
-
-              "header_name": "RECOMMENDED FOR YOU",
-              "type": "menuWithProducts",
-              "wrap": false,
-              "cardDesign": "intersport",
-              "layout": "recomended",
-              "columns": 5,
-              "category": "gid://shopify/Collection/433237000412",
-              "spacing": 12,
-              "imageBoxFit": "cover"
-
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/Accessories_6a1e3c42-f61f-46d2-90fe-e02d1c65b60b.jpg?v=1703781345&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
             },
 
-
             {
-
-              "items": [
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/tops_994c8b1c-22bc-461b-b937-133c7902bce2.jpg?v=1703781928&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                },
-
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/bottoms_bdb0367e-fb15-43dd-9a31-2052dcc28358.jpg?v=1703781969&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                },
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/shoes_81163c78-9c2b-48d6-a216-5edf25a900bf.jpg?v=1703782000&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                },
-
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/Accessories_8c6e4872-90bb-45ed-8cc7-1cbb2c3cb3e5.jpg?v=1703782020&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                },
-
-                {
-                  "name": null,
-                  "image": "https://www.intersport.com.eg/cdn/shop/files/Swimwear_0901ba85-89b8-46e6-9c67-5dede41d4e0c.jpg?v=1703782043&width=1500",
-                  "title": "ANTA",
-                  "category": "gid://shopify/Collection/423887536348"
-                }
-              ],
-              "layout": "cards_list_seller"
-
-
-            } ,
-
-
-
-            {
-
-              "header_name": "SHOP THE LOOK",
-              "type": "menuWithProducts",
-              "wrap": false,
-              "cardDesign": "intersport",
-              "layout": "recomended",
-              "columns": 5,
-              "category": "gid://shopify/Collection/433237000412",
-              "spacing": 12,
-              "imageBoxFit": "cover"
-
-            },
-
-
-
-
-            {
-              "layout": "hero_banner_shop",
-              "title": "SHOP NOW",
-              "type": "with_button",
-              "category": "gid://shopify/Collection/421948653788",
-              "image": "https://www.intersport.com.eg/cdn/shop/files/mob2_5355213c-aa18-4aa7-903b-a884c259984f.jpg?v=1703972327&width=400"
-            },
-
-
-
-            {
-
-              "header_name": "BESTSELLERS",
-              "type": "menuWithProducts",
-              "wrap": false,
-              "cardDesign": "intersport",
-              "layout": "recomended",
-              "columns": 5,
-              "category": "gid://shopify/Collection/433237000412",
-              "spacing": 12,
-              "imageBoxFit": "cover"
-
+              "name": null,
+              "image": "https://www.intersport.com.eg/cdn/shop/files/Swimwear_0a72f052-6a29-438a-8564-35935708a6b7.jpg?v=1703781375&width=1500",
+              "title": "ANTA",
+              "category": "gid://shopify/Collection/423887536348"
             }
+          ],
+          "layout": "cards_list_seller"
 
-          ]  }
 
-       }
+        } ,
+
+
+
+        {
+
+          "header_name": "SHOP THE LOOK",
+          "type": "menuWithProducts",
+          "wrap": false,
+          "cardDesign": "intersport",
+          "layout": "recomended",
+          "columns": 5,
+          "category": "gid://shopify/Collection/433237000412",
+          "spacing": 12,
+          "imageBoxFit": "cover"
+
+        },
+
+
+
+
+        {
+          "layout": "hero_banner_shop",
+          "title": "SHOP NOW",
+          "type": "with_button",
+          "category": "gid://shopify/Collection/421948653788",
+          "image": "https://www.intersport.com.eg/cdn/shop/files/mob02.jpg?v=1703972185&width=400"
+        },
+
+
+
+        {
+
+          "header_name": "BESTSELLERS",
+          "type": "menuWithProducts",
+          "wrap": false,
+          "cardDesign": "intersport",
+          "layout": "recomended",
+          "columns": 5,
+          "category": "gid://shopify/Collection/433237000412",
+          "spacing": 12,
+          "imageBoxFit": "cover"
+
+        }
+
+      ]  }
+
+    }
 
   ],
 
